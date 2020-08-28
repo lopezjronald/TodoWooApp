@@ -1,1 +1,1 @@
-# DjangoTodoProject
+# Django Todo Project
